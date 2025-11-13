@@ -101,4 +101,17 @@ public class Exam {
         int m = students.size();
         System.out.println("m: " + m);
     }
+        public static void main(String[] args) {
+
+
+        System.out.println("-- Start --");
+        System.out.println("A ---");
+        a();
+        System.out.println("B ---");
+        b();
+        System.out.println("C ---");
+        c();
+        System.out.println("D ---");
+        d();
+    }
 }
